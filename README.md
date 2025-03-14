@@ -23,3 +23,6 @@ Save and reuse previous scripts
 ### 6 Start the application: python main.py
 
 ### 7 Open your browser and go to: http://localhost:5000
+
+## Other things to consider
+you will need some hardware to run this that is the thing with running local ai models, but enjoy I hope it helps you code
